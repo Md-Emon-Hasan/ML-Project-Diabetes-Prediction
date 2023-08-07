@@ -3,7 +3,7 @@ import pickle
 import streamlit
 
 # loaded the saved model
-loaded_model = pickle.load(open('C:/Users/emon1/OneDrive/Desktop/Machine Learning Projects/20 Deploy Machine Learning Model using Streamlit/trained_model.sav','rb'))
+loaded_model = pickle.load(open('trained_model.sav','rb'))
 
 # creating a functoin for prediction
 def diabates_prediction(input_data):
