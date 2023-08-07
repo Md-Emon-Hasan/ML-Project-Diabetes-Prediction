@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 
-loaded_model = pickle.load(open('C:/Users/emon1/OneDrive/Desktop/Machine Learning Projects/20 Deploy Machine Learning Model using Streamlit/trained_model.sav','rb'))
+loaded_model = pickle.load(open('trained_model.sav','rb'))
 
 input_data = (0,137,40,35,168,43.1,2.288,33)
 
