@@ -2,6 +2,8 @@
 
 Welcome to the **Diabetes Prediction** machine learning project repository! This project focuses on predicting the likelihood of diabetes based on various health parameters using machine learning techniques.
 
+![house](https://github.com/user-attachments/assets/a4130fa1-1ff7-4285-9799-a49069e67c6b)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
